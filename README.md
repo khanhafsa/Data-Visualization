@@ -1,3 +1,3 @@
 # Data-Visualization
 
-Pandas visualizations using various python libraries.
+Pandas visualizations using Matplotlib and Seaborn.
